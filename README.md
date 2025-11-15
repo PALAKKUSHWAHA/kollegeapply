@@ -1,4 +1,5 @@
 # kollegeapply
+LIVE DEMO -> https://kollegeapply01.vercel.app/
 Here is a **clean, simple, interview-ready explanation** of your whole project exactly as required in the Web Development Intern Assessment.
 university-landing-pages/
 │
@@ -227,11 +228,3 @@ Below is a 30-second version you can say to an interviewer:
 > The entire project is deployed with SSL and behaves like a real admissions funnel with lead capture and dynamic data loading.”
 
 ---
-
-If you want, I can also prepare:
-✔ **A full report / documentation**
-✔ **A deployment-ready ZIP**
-✔ **GitHub README.md**
-✔ **Screenshots + flow diagram**
-
-Just tell me — *What do you want next?*
